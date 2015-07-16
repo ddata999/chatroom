@@ -11,6 +11,9 @@ a {
 	width: 100%;
 	height: auto;
 	font: 40px "Lucida Grande", Helvetica, Arial, sans-serif;
+	text-align: center;
+	background-color: #97F2C8;
+	margin: 0;
 }
 
 
