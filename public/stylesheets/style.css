@@ -7,6 +7,13 @@ a {
 	color: #00B7FF;
 }
 
+#head {
+	width: 100%;
+	height: auto;
+	font: 40px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+
 #content {
 	width: 800px;
 	margin-left: auto;
